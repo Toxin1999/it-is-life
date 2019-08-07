@@ -1,6 +1,6 @@
 html, body {
     margin: 0;
-    background-color: #77cc6d;
+    background-color: #ffffff;
     font-family: 'Raleway Dots', sans-serif;
   }
   
@@ -19,16 +19,16 @@ html, body {
     width: 60px;
     height: 70px;
     display: inline-block;
-    margin: 10px;
+    margin: 3px;
     list-style: none;
   }
   section #services li div {
-    width: 60px;
-    height: 60px;
+    width: 30px;
+    height: 30px;
     color: #74d4b3;
-    font-size: 1.7em;
+    font-size: 1.5em;
     text-align: center;
-    line-height: 60px;
+    line-height: 30px;
     background-color: #fff;
     transition: all 0.5s ease;
   }
